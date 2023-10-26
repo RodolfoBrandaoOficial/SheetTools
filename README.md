@@ -37,7 +37,13 @@ Contributions are welcome! Please submit a pull request or create an issue if yo
 
 ## Contact 📬
 
-Have questions or suggestions? Contact us at sheettools@example.com.
+Have questions or suggestions? Contact us at rodolfo@rodolfobrandao.com.br.
+
+## donate with pix 💰
+
+Beneficiário: Rodolfo Brandão
+
+Chave: 8fc4773f-6249-4e75-b056-51a1982239c5
 
 ## Acknowledgments 🙌
 
