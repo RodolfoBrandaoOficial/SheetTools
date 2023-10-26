@@ -1,18 +1,26 @@
-# Base64 to Image Converter Script 📸
+# Google Sheets Backup and Image Conversion Scripts 📂
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/Base64ToImageConverter)
-![GitHub license](https://img.shields.io/github/license/yourusername/Base64ToImageConverter)
+![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/GoogleSheetsBackup)
+![GitHub license](https://img.shields.io/github/license/yourusername/GoogleSheetsBackup)
 
 ## Description 📋
 
-The "Base64 to Image Converter Script" is a tool designed to convert base64-encoded images in a Google Sheets spreadsheet to image files saved in Google Drive. This script simplifies the process of storing and managing images in your Google Drive.
+This repository contains two essential Google Sheets scripts:
+
+1. **Google Sheets Backup Script 🔄:** Create backups of your Google Sheets with a single click. Each backup is uniquely timestamped and securely stored in a specified Google Drive folder.
+
+2. **Base64 to Image Conversion Script 📷:** Convert base64 data into images and save them to your Google Drive. Perfect for handling images in your spreadsheets.
 
 ## Key Features 🚀
 
-📷 **Base64 to Image:** Converts base64-encoded images to image files.
-📁 **Organized Storage:** Images are saved in a designated Google Drive folder.
-🔄 **Automatic Updates:** The "Ass" column in your spreadsheet is updated with image URLs.
-🔒 **Secure:** Your images and data are protected and managed within Google Drive.
+🔄 **Automatic Backups:** Easily create backups of your Google Sheets.
+📅 **Timestamped Copies:** Each backup has a unique timestamp for easy identification.
+📁 **Destination Folder:** Specify the Google Drive folder for storing backups.
+🔒 **Secure:** Your data is protected, and backups are organized.
+
+📷 **Image Conversion:** Convert base64 data into images effortlessly.
+🖼️ **Image File Creation:** Images are saved in a Google Drive folder.
+🌐 **Image URLs:** Image URLs are automatically updated in the spreadsheet.
 
 ## Installation 🛠️
 
@@ -24,9 +32,15 @@ The "Base64 to Image Converter Script" is a tool designed to convert base64-enco
 
 ## Usage 📈
 
-1. Open the Google Sheet containing base64-encoded images.
+### Google Sheets Backup Script
+1. Open the Google Sheet you want to back up.
 2. Access the "Extensions" menu.
-3. Select "Base64 to Image Converter" to start the conversion process.
+3. Select "Backup Script" to initiate a backup.
+
+### Base64 to Image Conversion Script
+1. Open the Google Sheet containing base64 data.
+2. Access the "Extensions" menu.
+3. Select "Image Conversion Script" to convert and save images.
 
 ## License 📜
 
@@ -42,7 +56,6 @@ Beneficiário: Rodolfo Brandão
 
 Chave: 8fc4773f-6249-4e75-b056-51a1982239c5
 
-
 ## Contact 📬
 
 Have questions or suggestions? Contact us at rodolfo@rodolfobrandao.com.br.
@@ -51,4 +64,4 @@ Have questions or suggestions? Contact us at rodolfo@rodolfobrandao.com.br.
 
 Thanks to the open-source community for their valuable contributions.
 
-Enjoy a seamless conversion of base64-encoded images to images stored in Google Drive! 📸
+Enjoy automated Google Sheets backups and image conversion! 📂📷
