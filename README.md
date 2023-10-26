@@ -1,7 +1,7 @@
 # Google Sheets Backup and Image Conversion Scripts 📂
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/GoogleSheetsBackup)
-![GitHub license](https://img.shields.io/github/license/yourusername/GoogleSheetsBackup)
+![GitHub last commit](https://img.shields.io/github/last-commit/RodolfoBrandaoOficial/GoogleSheetsBackup)
+![GitHub license](https://img.shields.io/github/license/RodolfoBrandaoOficial/GoogleSheetsBackup)
 
 ## Description 📋
 
